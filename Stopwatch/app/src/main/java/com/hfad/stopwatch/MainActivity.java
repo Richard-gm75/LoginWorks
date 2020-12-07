@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     // stop the stopwatch running when the stop button is clicked.
     public void onClickStop(View view) {
         running = false;
-    }
+    } 
     // reset the stopwatch when the reset button is clicked.
     public void onClickReset(View view) {
         running = false;
