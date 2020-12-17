@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FoodApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jumping-Jacks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JumpingJacksFoodApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TandemFieri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Veggiesta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/food-delivery-order-management" vcs="Git" />
+  </component>
+</project>
